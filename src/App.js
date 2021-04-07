@@ -1,12 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Weather from './Components/weather'
 
 function App() {
   return (
     <div className="App">
-     <h1>My React App</h1>
-     <h2>Author: Nidhi Gahlawat</h2>
-     
+     <Weather></Weather>
     </div>
   );
 }

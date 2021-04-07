@@ -1,4 +1,4 @@
-# Weather Application with ReactJS :sun_behind_small_cloud: :partly_sunny: :cloud_with_lightning_and_rain: :sunny:
+# :cloud_with_lightning_and_rain: :sunny: Weather Application with ReactJS :sun_behind_small_cloud: :partly_sunny: 
 
 ## Built with ⌨️ 
 - ReactJS 
@@ -13,10 +13,13 @@
 
 
 ## Contact 📞 
-Nidhi Gahlawat 
+Nidhi Gahlawat
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nidhi-gahlawat-01947818a/) 
+
 e-mail me at: 
 ### nidhigahlawat2002@gmail.com 
+
 Github profile: https://github.com/Nidhi-Gahlawat
  
 ## Project link 
